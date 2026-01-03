@@ -2,39 +2,50 @@
 
 ### Autonomous Systems & SDR Communications Engineer | JRAF @ TiHAN, IIT Hyderabad
 
-[cite_start]I am an Autonomous Systems and ML Engineer specializing in computer vision, multi-sensor perception, and secure SDR-based communication systems[cite: 6]. [cite_start]Currently, I am focused on building resilient drone communication links using FHSS and encrypted SDR to mitigate jamming in contested environments[cite: 8].
+[cite_start]I am an Autonomous Systems and ML Engineer specializing in computer vision, multi-sensor perception, and secure SDR-based communication systems[cite: 6]. [cite_start]Currently, I am focused on building resilient drone communication links using FHSS and encrypted SDR to mitigate jamming in contested RF environments[cite: 8].
 
 ---
 
-### 🛠 Tech Stack & Interests
+### 🛠 Tech Stack & Tools
 
-* [cite_start]**Programming & ML:** Python, NumPy, Pandas, YOLO, OpenCV, Deep Learning [cite: 13]
-* [cite_start]**SDR & Communications:** USRP (B200/B210), GNU Radio, FHSS, AES/RSA Encryption, MAVLink [cite: 15]
-* [cite_start]**Autonomous Systems:** LiDAR Annotation, Object Tracking, Image Segmentation, Edge Deployment [cite: 14, 16]
-* [cite_start]**Tools & Platforms:** Linux, Docker, NVIDIA Jetson (Nano/Orin), Intel NUC, Git [cite: 16, 17]
+**Programming & AI**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+**SDR & Communications**
+![GNU Radio](https://img.shields.io/badge/GNU%20Radio-7FB3D5?style=for-the-badge&logo=gnuradio&logoColor=white) ![MAVLink](https://img.shields.io/badge/MAVLink-000000?style=for-the-badge&logo=drone&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Hardware & Deployment**
+![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Intel NUC](https://img.shields.io/badge/Intel%20NUC-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 
 ---
 
-### 🚀 Currently Working On
+### 📊 GitHub Activity
 
-* [cite_start]**Resilient Drone Telemetry:** Implementing adaptive frequency hopping for anti-jamming[cite: 8, 23].
-* [cite_start]**Large-Scale Perception:** Deploying optimized YOLO models on edge devices for ADAS.
-* [cite_start]**Multi-Sensor Fusion:** Annotating and processing LiDAR and Camera data across 30+ Indian cities[cite: 21].
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manish9479&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish9479&layout=compact&langs_count=7&theme=radical" />
+</p>
+
+---
+
+### 🚀 Key Focus Areas
+
+* [cite_start]🛰️ **Resilient Drone Telemetry:** Implementing adaptive frequency hopping for anti-jamming[cite: 8, 23].
+* [cite_start]👁️ **Large-Scale Perception:** Deploying optimized YOLO models on edge devices[cite: 22, 30].
+* [cite_start]🗺️ **Multi-Sensor Fusion:** Annotating LiDAR and Camera data for autonomous navigation[cite: 21].
 
 ---
 
 ### 📈 Featured Projects
 
-* [cite_start]**[SDR Anti-Jamming System](https://github.com/Manish9479):** Secure communication link for UAVs using USRP and FHSS[cite: 38, 40].
-* [cite_start]**[E-Krishak](https://github.com/Manish9479):** IoT-based pest detection system with 85% accuracy[cite: 42, 45].
-* [cite_start]**[Safety Gear Detection](https://github.com/Manish9479):** Deep learning system for industrial workplace safety[cite: 34].
+* [cite_start]🛡️ **[SDR Anti-Jamming System](https://github.com/Manish9479/lora-sdr-secure-co...)** - Secure UAV link using FHSS[cite: 38, 40, 41].
+* [cite_start]🌾 **[E-Krishak](https://github.com/Manish9479/E-Krishak_SSTC)** - IoT-based pest detection with 85% accuracy[cite: 42, 45].
+* [cite_start]👷 **[Safety Gear Detection](https://github.com/Manish9479/Machine_Learning)** - Vision system for industrial safety[cite: 34].
 
 ---
 
 ### 📫 Let's Connect
 
-* [cite_start]**LinkedIn:** [in/manish-gupta-746b11213](https://linkedin.com/in/manish-gupta-746b11213) 
-* [cite_start]**X (Twitter):** [@Manishgupta9479](https://x.com/Manishgupta9479) 
-* [cite_start]**Email:** [manishgupta9479@gmail.com](mailto:manishgupta9479@gmail.com) [cite: 4]
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manish-gupta-746b11213) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Manishgupta9479) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manishgupta9479@gmail.com)
 
 ---
