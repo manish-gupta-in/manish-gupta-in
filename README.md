@@ -22,7 +22,7 @@ I am an Autonomous Systems and ML Engineer specializing in computer vision, mult
 
 ### 🚀 Key Focus Areas
 
-* 🛰️ **Resilient Drone Telemetry:** Implementing adaptive frequency hopping for anti-jamming
+* 🛰️ **Resilient Drone Telemetry:** Implementing secure communication with frequency hopping for anti-jamming scenario in UAV
 * 👁️ **Large-Scale Perception:** Deploying optimized YOLO models on edge devices.
 * 🗺️ **Multi-Sensor Fusion:** Annotating LiDAR and Camera data for autonomous navigation
 
