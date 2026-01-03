@@ -19,28 +19,30 @@
 
 ---
 
+---
+
 ### 📊 GitHub Activity
 
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manish9479&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish9479&layout=compact&langs_count=7&theme=radical" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Manish9479&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Manish9479&layout=compact&langs_count=7&theme=radical" />
 </p>
 
 ---
 
 ### 🚀 Key Focus Areas
 
-* [cite_start]🛰️ **Resilient Drone Telemetry:** Implementing adaptive frequency hopping for anti-jamming[cite: 8, 23].
-* [cite_start]👁️ **Large-Scale Perception:** Deploying optimized YOLO models on edge devices[cite: 22, 30].
-* [cite_start]🗺️ **Multi-Sensor Fusion:** Annotating LiDAR and Camera data for autonomous navigation[cite: 21].
+* 🛰️ **Resilient Drone Telemetry:** Implementing adaptive frequency hopping for anti-jamming[cite: 8, 23].
+* 👁️ **Large-Scale Perception:** Deploying optimized YOLO models on edge devices[cite: 22, 30].
+* 🗺️ **Multi-Sensor Fusion:** Annotating LiDAR and Camera data for autonomous navigation[cite: 21].
 
 ---
 
 ### 📈 Featured Projects
 
-* [cite_start]🛡️ **[SDR Anti-Jamming System](https://github.com/Manish9479/lora-sdr-secure-co...)** - Secure UAV link using FHSS[cite: 38, 40, 41].
-* [cite_start]🌾 **[E-Krishak](https://github.com/Manish9479/E-Krishak_SSTC)** - IoT-based pest detection with 85% accuracy[cite: 42, 45].
-* [cite_start]👷 **[Safety Gear Detection](https://github.com/Manish9479/Machine_Learning)** - Vision system for industrial safety[cite: 34].
+* 🛡️ **[SDR Anti-Jamming System](https://github.com/Manish9479/lora-sdr-secure-co...)** - Secure UAV link using FHSS[cite: 38, 40, 41].
+* 🌾 **[E-Krishak](https://github.com/Manish9479/E-Krishak_SSTC)** - IoT-based pest detection with 85% accuracy[cite: 42, 45].
+* 👷 **[Safety Gear Detection](https://github.com/Manish9479/Machine_Learning)** - Vision system for industrial safety[cite: 34].
 
 ---
 
