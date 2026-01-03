@@ -2,7 +2,7 @@
 
 ### Autonomous Systems & SDR Communications Engineer | JRAF @ TiHAN, IIT Hyderabad
 
-I am an Autonomous Systems and ML Engineer specializing in computer vision, multi-sensor perception, and secure SDR-based communication systems. Currently, I am focused on building resilient drone communication links using FHSS and encrypted SDR to mitigate jamming in contested RF environments.
+I am an Autonomous Systems and ML Engineer specializing in computer vision, multi-sensor perception, and secure SDR-based communication systems.Currently, I am focused on building resilient drone communication links using FHSS and encrypted SDR to mitigate jamming in contested RF environments
 
 ---
 
@@ -19,35 +19,25 @@ I am an Autonomous Systems and ML Engineer specializing in computer vision, mult
 
 ---
 
-### 🏆 GitHub Trophies
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Manish9479&theme=radical&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
 ### 🚀 Key Focus Areas
 
-* 🛰️ **Resilient Drone Telemetry:** Implementing adaptive frequency hopping for anti-jamming.
+* 🛰️ **Resilient Drone Telemetry:** Implementing adaptive frequency hopping for anti-jamming
 * 👁️ **Large-Scale Perception:** Deploying optimized YOLO models on edge devices.
-* 🗺️ **Multi-Sensor Fusion:** Annotating LiDAR and Camera data for autonomous navigation.
+* 🗺️ **Multi-Sensor Fusion:** Annotating LiDAR and Camera data for autonomous navigation
 
 ---
 
-### 📈 Project Spotlight
+### 📈 Featured Projects
 
-#### 🛡️ [SDR Anti-Jamming System](https://github.com/Manish9479/lora-sdr-secure-communication)
-* **Tech:** `USRP B210` `GNU Radio` `FHSS` `AES/RSA Encryption`
-* **Impact:** Developed a resilient link with adaptive frequency hopping to ensure reliable drone control in contested RF environments.
-
-#### 🌾 [E-Krishak: IoT Pest Detection](https://github.com/Manish9479/E-Krishak_SSTC)
-* **Tech:** `Python` `TensorFlow` `OpenCV` `Raspberry Pi`
-* **Impact:** Built an automated identification system achieving 85% accuracy for real-time crop monitoring.
-
-#### 👁️ [Object-Detection-using-Yolo](https://github.com/Manish9479/Object-Detection-using-Yolo)
-* **Tech:** `YOLOv8` `Stereo Vision` `LiDAR` `Edge Inference`
-* **Impact:** Evaluated perception pipelines on 108k+ images, optimized for real-time performance.
+* 🛡️ **[SDR Anti-Jamming System](https://github.com/Manish9479/lora-sdr-secure-co...)** - Secure UAV link using FHSS
+* 🌾 **[E-Krishak](https://github.com/Manish9479/E-Krishak_SSTC)** - IoT-based pest detection with 85% accuracy
+* 👷 **[Safety Gear Detection](https://github.com/Manish9479/Machine_Learning)** - Vision system for industrial safety
 
 ---
 
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manish-gupta-746b11213) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Manishgupta9479) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manishgupta9479@gmail.com)
+
+---
