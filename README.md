@@ -37,7 +37,7 @@ I am an Autonomous Systems and ML Engineer specializing in computer vision, mult
 ---
 
 ### 📫 Let's Connect
-[![Portfolio Website](https://manish-portfolio-iith.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://manish-portfolio-iith.vercel.app/) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manish-gupta-746b11213) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Manishgupta9479) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manishgupta9479@gmail.com)
 
 ---
